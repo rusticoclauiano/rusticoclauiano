@@ -1,7 +1,8 @@
 ### Rustico Clauiano 👋
 
-<a href="https://rusticoclauiano.github.io/rusticoclauiano/">Mini sito web con alcune immagini della ristrutturazione.</a>
+<a href="https://rusticoclauiano.github.io">Mini sito web con alcune immagini della ristrutturazione.</a>
 
+📫 enricocaputo.1972@gmail.com
 
 <!--
 **rusticoclauiano/rusticoclauiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
